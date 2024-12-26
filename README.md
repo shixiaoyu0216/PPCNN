@@ -63,7 +63,7 @@ This project uses a convolutional neural network (CNN) model hosted on a cloud s
 
 ```
 LICENSE                - GNU General Public License v3.0
-code.rar               - Contains all the project code
+code                   - Contains all the project code
 README.md              - Project documentation
 ```
 
